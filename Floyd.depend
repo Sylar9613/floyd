@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480718368 source:c:\users\arián\documents\proyectos c++\floyd\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
